@@ -2,6 +2,12 @@ Hi 👋 my call sign 🤙 Maalig
 _________________________________________________________________________________________________________________________
 Full-Stack Engineer | Technical Author @iampmpksamy
 _________________________________________________________________________________________________________________________
+Skills
+Typescript Javascript HTML5 React Angular Vue JQuery CSS3 Sass TailwindCSS Bootstrap Material UI Redux Webpack Babel NodeJS Express MongoDB Firebase Lavarel Photoshop Illustrator XD Figma Sketch
+
+
+
+
 <!--
 **iampmpksamy/iampmpksamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
