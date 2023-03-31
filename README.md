@@ -1,5 +1,7 @@
-### Hi there 👋
-
+Hi 👋 my call sign 🤙 Maalig
+_________________________________________________________________________________________________________________________
+Full-Stack Engineer | Technical Author @iampmpksamy
+_________________________________________________________________________________________________________________________
 <!--
 **iampmpksamy/iampmpksamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
