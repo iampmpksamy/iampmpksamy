@@ -6,7 +6,7 @@ ________________________________________________________________________________
 * ✉️  You can contact me at [me@pmpksamy.com](mailto:me@pmpksamy.com)
 _________________________________________________________________________________________________________________________
 <a href="https://www.twitter.com/iampmpksamy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ImDigamberSingh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/Impmpksamy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/iampmpksamy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iampmpksamy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
